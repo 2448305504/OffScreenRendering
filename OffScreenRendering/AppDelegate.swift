@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  OffScreenRendering
-//
-//  Created by 林文俊 on 2021/8/12.
-//
 
 import UIKit
 
